@@ -77,7 +77,7 @@ module.exports = {
   /* config options here */
 }
 ```
-
+sd
 ### Customizing webpack config
 
 [Example](https://github.com/palmerhq/backpack/tree/master/examples/with-custom-webpack-config)  
